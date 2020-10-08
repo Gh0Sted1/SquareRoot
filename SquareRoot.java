@@ -6,6 +6,8 @@
 
 import java.text.DecimalFormat;
 
+import java.util.Scanner;
+
 public class SquareRoot {
     public static void main (String [] args) {
         // Create the input scanner
