@@ -1,5 +1,4 @@
-/*
- * Programmer: Gryphen Clark
+/* Programmer: Gryphen Clark
  * Date: October 7th 2020
  * Purpose: to have a code repeat itself if it has an invalid input
  */
